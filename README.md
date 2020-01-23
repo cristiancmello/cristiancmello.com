@@ -1,5 +1,7 @@
 ## Cristian Mello's website
 
+Blog based on [Gatsby Lumen](https://github.com/alxshelepenok/gatsby-starter-lumen).
+
 ### Start Developing
 ```
 $ git clone git@github.com:cristiancmello/cristiancmello.com.git
