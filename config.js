@@ -32,7 +32,7 @@ module.exports = {
     name: "Cristian Mello",
     photo: "/photo.jpg",
     bio:
-      "Web Developer & DevOps Engineering @ I blog about Cloud Computing, Web Development and more topics.",
+      "Backend Developer @ I blog about Cloud Computing, Development and DevOps engineering.",
     contacts: {
       email: "cristianc.mello@gmail.com",
       github: "cristiancmello",
