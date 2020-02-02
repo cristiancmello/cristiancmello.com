@@ -5,12 +5,12 @@ socialImage: "/media/image-2.jpg"
 ---
 
 Eu me formei em Ciência da Computação pela Universidade Vila Velha (Turma de 2013) e
-trabalho atualmente como Web Developer e DevOps Engineer desde 2016. A cada dia tenho
+trabalho atualmente como Backend Developer desde 2015. A cada dia tenho
 descoberto mais uma intensa motivação a respeito da construção de software sob um olhar
 analítico, metodológico e à luz do conhecimento formal.
 
-Meu primeiro contato com a programação foi aos 8 anos (Pascal está nessa minha história 😁)
-e como pude perceber desde os primeiros passos que eu amaria estudar e criar muitas coisas.
+Meu primeiro contato com a programação foi aos 8 anos e como pude perceber desde os primeiros 
+passos que eu amaria estudar e criar muitas coisas.
 
 Tenho também trabalhado com open-source. Contribuí com:
 
@@ -18,10 +18,10 @@ Tenho também trabalhado com open-source. Contribuí com:
 de ambiente de desenvolvimento em PHP/Node baseado em Docker. Eu contribui com suporte a
 infraestrutura aos serviços
   - [Laravel Envoy](https://laravel.com/docs/6.x/envoy): automação de definição de scripts
-  de provisionamento de servidores. PR submetida e aceita [PR #510](https://github.com/laradock/laradock/pull/510).
+  de provisionamento de servidores. [PR #510](https://github.com/laradock/laradock/pull/510).
 
   - [RethinkDB](https://rethinkdb.com/): banco de dados open-source de tempo-real, baseado
-  em JSON. PR submetida e aceita [PR #513](https://github.com/laradock/laradock/pull/513).
+  em JSON. [PR #513](https://github.com/laradock/laradock/pull/513).
 
   - Tecnologias: Docker, Docker Compose e Shell Script.
 
